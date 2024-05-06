@@ -1,0 +1,19 @@
+.login__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.login__btn {
+  margin-top: 20px;
+  height: 30px;
+  width: 210px;
+  background-color: blue;
+}
